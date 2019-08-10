@@ -1,2 +1,2 @@
 # ArtDeck
-Roughly Artist Inventory App
+Roughly, an Artist Inventory App
