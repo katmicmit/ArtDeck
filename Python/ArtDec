@@ -1,2 +1,5 @@
-class Artist
-pass
+class Artist:
+    pass
+
+class Exhibitions(Artist):
+ 
