@@ -1,5 +1,5 @@
 class Artist:
-    pass
+   def __init__(self, image, last_name, first_name, image_name, image_date, image_media, image_size, image_description, image_location, image_price):
 
 class Exhibitions(Artist):
- 
+    def __init__(self, venue_name, exhib_dates, exhib_link):
